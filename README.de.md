@@ -123,10 +123,13 @@ Das Ziel bestand nicht nur darin, Funktionen umzusetzen. Es sollte ein wartbarer
 - Produktübersicht: [Deutsch](docs/01-product-overview.de.md) · [English](docs/01-product-overview.md)
 - Technologiestack: [Deutsch](docs/02-technology-stack.de.md) · [English](docs/02-technology-stack.md)
 - Systemarchitektur: [Deutsch](docs/03-system-architecture.de.md) · [English](docs/03-system-architecture.md)
+- Domänenmodell: [Deutsch](docs/04-domain-model.de.md) · [English](docs/04-domain-model.md)
+- Datenbankdesign: [Deutsch](docs/05-database-design.de.md) · [English](docs/05-database-design.md)
 - Systemkontextdiagramm: [Deutsch](diagrams/system-context.de.md) · [English](diagrams/system-context.md)
+- Konzeptionelles Domänendiagramm: [Deutsch](diagrams/domain-model.de.md) · [English](diagrams/domain-model.md)
 - Veröffentlichungsgrenzen und Sicherheitsregeln: [Deutsch](PUBLICATION-SCOPE.de.md) · [English](PUBLICATION-SCOPE.md)
 
-Weitere Dokumente werden Domänenmodell, Bestellablauf, Kunden- und Adressversionierung, Datenbankentwicklung, Lizenzierung, CI, Tests, Datenschutz und Architecture Decision Records behandeln. Jedes Portfolio-Dokument wird vollständig auf Deutsch und Englisch bereitgestellt.
+Weitere Dokumente werden Bestellablauf, Kunden- und Adressversionierung, Lizenzierung, CI, Tests, Datenschutz und Architecture Decision Records behandeln. Jedes Portfolio-Dokument wird vollständig auf Deutsch und Englisch bereitgestellt.
 
 ## Abgrenzung des Portfolios
 
@@ -137,3 +140,4 @@ Diese Fallstudie zeigt bewusst Architektur, Entscheidungsfindung, Dokumentation 
 Copyright © 2026 Mohamed Abergna. Alle Rechte vorbehalten.
 
 Durch dieses Repository wird keine Open-Source-Lizenz eingeräumt.
+
