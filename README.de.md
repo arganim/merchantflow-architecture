@@ -125,11 +125,15 @@ Das Ziel bestand nicht nur darin, Funktionen umzusetzen. Es sollte ein wartbarer
 - Systemarchitektur: [Deutsch](docs/03-system-architecture.de.md) · [English](docs/03-system-architecture.md)
 - Domänenmodell: [Deutsch](docs/04-domain-model.de.md) · [English](docs/04-domain-model.md)
 - Datenbankdesign: [Deutsch](docs/05-database-design.de.md) · [English](docs/05-database-design.md)
+- Bestellablauf: [Deutsch](docs/06-order-workflow.de.md) · [English](docs/06-order-workflow.md)
+- Kunden- und Adressversionierung: [Deutsch](docs/07-customer-address-versioning.de.md) · [English](docs/07-customer-address-versioning.md)
 - Systemkontextdiagramm: [Deutsch](diagrams/system-context.de.md) · [English](diagrams/system-context.md)
 - Konzeptionelles Domänendiagramm: [Deutsch](diagrams/domain-model.de.md) · [English](diagrams/domain-model.md)
+- Bestellablaufdiagramm: [Deutsch](diagrams/order-flow.de.md) · [English](diagrams/order-flow.md)
+- Diagramm zur Kundenzuordnung: [Deutsch](diagrams/customer-flow.de.md) · [English](diagrams/customer-flow.md)
 - Veröffentlichungsgrenzen und Sicherheitsregeln: [Deutsch](PUBLICATION-SCOPE.de.md) · [English](PUBLICATION-SCOPE.md)
 
-Weitere Dokumente werden Bestellablauf, Kunden- und Adressversionierung, Lizenzierung, CI, Tests, Datenschutz und Architecture Decision Records behandeln. Jedes Portfolio-Dokument wird vollständig auf Deutsch und Englisch bereitgestellt.
+Weitere Dokumente werden Lizenzierung, CI, Tests, Datenschutz und Architecture Decision Records behandeln. Jedes Portfolio-Dokument wird vollständig auf Deutsch und Englisch bereitgestellt.
 
 ## Abgrenzung des Portfolios
 
@@ -140,4 +144,5 @@ Diese Fallstudie zeigt bewusst Architektur, Entscheidungsfindung, Dokumentation 
 Copyright © 2026 Mohamed Abergna. Alle Rechte vorbehalten.
 
 Durch dieses Repository wird keine Open-Source-Lizenz eingeräumt.
+
 

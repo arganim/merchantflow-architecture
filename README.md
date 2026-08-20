@@ -125,11 +125,15 @@ The goal was not merely to produce features, but to establish a maintainable eng
 - System architecture: [English](docs/03-system-architecture.md) · [Deutsch](docs/03-system-architecture.de.md)
 - Domain model: [English](docs/04-domain-model.md) · [Deutsch](docs/04-domain-model.de.md)
 - Database design: [English](docs/05-database-design.md) · [Deutsch](docs/05-database-design.de.md)
+- Order workflow: [English](docs/06-order-workflow.md) · [Deutsch](docs/06-order-workflow.de.md)
+- Customer and address versioning: [English](docs/07-customer-address-versioning.md) · [Deutsch](docs/07-customer-address-versioning.de.md)
 - System context diagram: [English](diagrams/system-context.md) · [Deutsch](diagrams/system-context.de.md)
 - Conceptual domain diagram: [English](diagrams/domain-model.md) · [Deutsch](diagrams/domain-model.de.md)
+- Order flow diagram: [English](diagrams/order-flow.md) · [Deutsch](diagrams/order-flow.de.md)
+- Customer resolution diagram: [English](diagrams/customer-flow.md) · [Deutsch](diagrams/customer-flow.de.md)
 - Publication scope and safety rules: [English](PUBLICATION-SCOPE.md) · [Deutsch](PUBLICATION-SCOPE.de.md)
 
-Additional documents will cover the order lifecycle, customer and address versioning, licensing, CI, testing, privacy, and engineering decision records. Every portfolio document will be provided in English and German.
+Additional documents will cover licensing, CI, testing, privacy, and engineering decision records. Every portfolio document will be provided in English and German.
 
 ## Portfolio Boundary
 
@@ -140,4 +144,5 @@ This case study intentionally demonstrates architecture, reasoning, documentatio
 Copyright © 2026 Mohamed Abergna. All rights reserved.
 
 No open-source license is granted by this repository.
+
 
