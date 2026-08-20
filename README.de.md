@@ -120,14 +120,17 @@ Das Ziel bestand nicht nur darin, Funktionen umzusetzen. Es sollte ein wartbarer
 
 ## Dokumentation
 
-- [Produktübersicht](docs/01-product-overview.md)
-- [Veröffentlichungsgrenzen und Sicherheitsregeln – Englisch](PUBLICATION-SCOPE.md)
+- Produktübersicht: [Deutsch](docs/01-product-overview.de.md) · [English](docs/01-product-overview.md)
+- Technologiestack: [Deutsch](docs/02-technology-stack.de.md) · [English](docs/02-technology-stack.md)
+- Systemarchitektur: [Deutsch](docs/03-system-architecture.de.md) · [English](docs/03-system-architecture.md)
+- Systemkontextdiagramm: [Deutsch](diagrams/system-context.de.md) · [English](diagrams/system-context.md)
+- Veröffentlichungsgrenzen und Sicherheitsregeln: [Deutsch](PUBLICATION-SCOPE.de.md) · [English](PUBLICATION-SCOPE.md)
 
-Weitere Dokumente werden Technologieentscheidungen, Systemarchitektur, Domänenmodell, Bestellablauf, Kunden- und Adressversionierung, Datenbankentwicklung, Lizenzierung, CI, Tests, Datenschutz und Architecture Decision Records behandeln.
+Weitere Dokumente werden Domänenmodell, Bestellablauf, Kunden- und Adressversionierung, Datenbankentwicklung, Lizenzierung, CI, Tests, Datenschutz und Architecture Decision Records behandeln. Jedes Portfolio-Dokument wird vollständig auf Deutsch und Englisch bereitgestellt.
 
 ## Abgrenzung des Portfolios
 
-Diese Fallstudie zeigt bewusst Architektur, Entscheidungsfindung, Dokumentation und Engineering-Governance, ohne die kommerzielle Anwendung selbst zu veröffentlichen. Die verbindlichen Grenzen stehen in [Publication Scope and Safety Rules](PUBLICATION-SCOPE.md).
+Diese Fallstudie zeigt bewusst Architektur, Entscheidungsfindung, Dokumentation und Engineering-Governance, ohne die kommerzielle Anwendung selbst zu veröffentlichen. Die verbindlichen Grenzen stehen in den [Veröffentlichungsgrenzen und Sicherheitsregeln](PUBLICATION-SCOPE.de.md).
 
 ## Urheberrecht
 
