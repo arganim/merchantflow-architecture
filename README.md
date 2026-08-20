@@ -120,10 +120,13 @@ The goal was not merely to produce features, but to establish a maintainable eng
 
 ## Documentation
 
-- [Product Overview](docs/01-product-overview.md)
-- [Publication Scope and Safety Rules](PUBLICATION-SCOPE.md)
+- Product overview: [English](docs/01-product-overview.md) · [Deutsch](docs/01-product-overview.de.md)
+- Technology stack: [English](docs/02-technology-stack.md) · [Deutsch](docs/02-technology-stack.de.md)
+- System architecture: [English](docs/03-system-architecture.md) · [Deutsch](docs/03-system-architecture.de.md)
+- System context diagram: [English](diagrams/system-context.md) · [Deutsch](diagrams/system-context.de.md)
+- Publication scope and safety rules: [English](PUBLICATION-SCOPE.md) · [Deutsch](PUBLICATION-SCOPE.de.md)
 
-Additional documents will cover the technology rationale, system architecture, domain model, order lifecycle, customer and address versioning, database evolution, licensing, CI, testing, privacy, and engineering decision records.
+Additional documents will cover the domain model, order lifecycle, customer and address versioning, database evolution, licensing, CI, testing, privacy, and engineering decision records. Every portfolio document will be provided in English and German.
 
 ## Portfolio Boundary
 
