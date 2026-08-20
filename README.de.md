@@ -131,6 +131,8 @@ Das Ziel bestand nicht nur darin, Funktionen umzusetzen. Es sollte ein wartbarer
 - CI/CD-Pipeline: [Deutsch](docs/09-ci-cd-pipeline.de.md) · [English](docs/09-ci-cd-pipeline.md)
 - Teststrategie: [Deutsch](docs/10-testing-strategy.de.md) · [English](docs/10-testing-strategy.md)
 - Sicherheit und Datenschutz: [Deutsch](docs/11-security-and-privacy.de.md) · [English](docs/11-security-and-privacy.md)
+- KI-unterstützter Entwicklungsablauf: [Deutsch](docs/12-ai-development-workflow.de.md) · [English](docs/12-ai-development-workflow.md)
+- Roadmap: [Deutsch](docs/13-roadmap.de.md) · [English](docs/13-roadmap.md)
 - Systemkontextdiagramm: [Deutsch](diagrams/system-context.de.md) · [English](diagrams/system-context.md)
 - Konzeptionelles Domänendiagramm: [Deutsch](diagrams/domain-model.de.md) · [English](diagrams/domain-model.md)
 - Bestellablaufdiagramm: [Deutsch](diagrams/order-flow.de.md) · [English](diagrams/order-flow.md)
@@ -139,9 +141,10 @@ Das Ziel bestand nicht nur darin, Funktionen umzusetzen. Es sollte ein wartbarer
 - CI-Pipeline-Diagramm: [Deutsch](diagrams/ci-pipeline.de.md) · [English](diagrams/ci-pipeline.md)
 - Diagramm zur Teststrategie: [Deutsch](diagrams/testing-strategy.de.md) · [English](diagrams/testing-strategy.md)
 - Diagramm der Sicherheitsgrenzen: [Deutsch](diagrams/security-boundaries.de.md) · [English](diagrams/security-boundaries.md)
+- Diagramm zum KI-Entwicklungsablauf: [Deutsch](diagrams/ai-workflow.de.md) · [English](diagrams/ai-workflow.md)
 - Veröffentlichungsgrenzen und Sicherheitsregeln: [Deutsch](PUBLICATION-SCOPE.de.md) · [English](PUBLICATION-SCOPE.md)
 
-Weitere Dokumente werden KI-unterstützte Entwicklung, Roadmap und Architecture Decision Records behandeln. Jedes Portfolio-Dokument wird vollständig auf Deutsch und Englisch bereitgestellt.
+Die erste vollständige Dokumentationsreihe des Portfolios ist abgeschlossen. Sie behandelt Produkt, Technologien, Architektur, Domäne und Daten, Geschäftsabläufe, Lizenzierung, Auslieferung, Tests, Sicherheit, Datenschutz, KI-unterstützte Entwicklung und Roadmap. Jedes Portfolio-Dokument liegt auf Deutsch und Englisch vor.
 
 ## Abgrenzung des Portfolios
 
@@ -152,7 +155,4 @@ Diese Fallstudie zeigt bewusst Architektur, Entscheidungsfindung, Dokumentation 
 Copyright © 2026 Mohamed Abergna. Alle Rechte vorbehalten.
 
 Durch dieses Repository wird keine Open-Source-Lizenz eingeräumt.
-
-
-
 
