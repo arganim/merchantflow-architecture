@@ -123,10 +123,13 @@ The goal was not merely to produce features, but to establish a maintainable eng
 - Product overview: [English](docs/01-product-overview.md) · [Deutsch](docs/01-product-overview.de.md)
 - Technology stack: [English](docs/02-technology-stack.md) · [Deutsch](docs/02-technology-stack.de.md)
 - System architecture: [English](docs/03-system-architecture.md) · [Deutsch](docs/03-system-architecture.de.md)
+- Domain model: [English](docs/04-domain-model.md) · [Deutsch](docs/04-domain-model.de.md)
+- Database design: [English](docs/05-database-design.md) · [Deutsch](docs/05-database-design.de.md)
 - System context diagram: [English](diagrams/system-context.md) · [Deutsch](diagrams/system-context.de.md)
+- Conceptual domain diagram: [English](diagrams/domain-model.md) · [Deutsch](diagrams/domain-model.de.md)
 - Publication scope and safety rules: [English](PUBLICATION-SCOPE.md) · [Deutsch](PUBLICATION-SCOPE.de.md)
 
-Additional documents will cover the domain model, order lifecycle, customer and address versioning, database evolution, licensing, CI, testing, privacy, and engineering decision records. Every portfolio document will be provided in English and German.
+Additional documents will cover the order lifecycle, customer and address versioning, licensing, CI, testing, privacy, and engineering decision records. Every portfolio document will be provided in English and German.
 
 ## Portfolio Boundary
 
@@ -137,3 +140,4 @@ This case study intentionally demonstrates architecture, reasoning, documentatio
 Copyright © 2026 Mohamed Abergna. All rights reserved.
 
 No open-source license is granted by this repository.
+
