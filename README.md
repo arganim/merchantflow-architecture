@@ -131,6 +131,8 @@ The goal was not merely to produce features, but to establish a maintainable eng
 - CI/CD pipeline: [English](docs/09-ci-cd-pipeline.md) · [Deutsch](docs/09-ci-cd-pipeline.de.md)
 - Testing strategy: [English](docs/10-testing-strategy.md) · [Deutsch](docs/10-testing-strategy.de.md)
 - Security and privacy: [English](docs/11-security-and-privacy.md) · [Deutsch](docs/11-security-and-privacy.de.md)
+- AI-assisted development workflow: [English](docs/12-ai-development-workflow.md) · [Deutsch](docs/12-ai-development-workflow.de.md)
+- Roadmap: [English](docs/13-roadmap.md) · [Deutsch](docs/13-roadmap.de.md)
 - System context diagram: [English](diagrams/system-context.md) · [Deutsch](diagrams/system-context.de.md)
 - Conceptual domain diagram: [English](diagrams/domain-model.md) · [Deutsch](diagrams/domain-model.de.md)
 - Order flow diagram: [English](diagrams/order-flow.md) · [Deutsch](diagrams/order-flow.de.md)
@@ -139,9 +141,10 @@ The goal was not merely to produce features, but to establish a maintainable eng
 - CI pipeline diagram: [English](diagrams/ci-pipeline.md) · [Deutsch](diagrams/ci-pipeline.de.md)
 - Testing strategy diagram: [English](diagrams/testing-strategy.md) · [Deutsch](diagrams/testing-strategy.de.md)
 - Security boundaries diagram: [English](diagrams/security-boundaries.md) · [Deutsch](diagrams/security-boundaries.de.md)
+- AI development workflow diagram: [English](diagrams/ai-workflow.md) · [Deutsch](diagrams/ai-workflow.de.md)
 - Publication scope and safety rules: [English](PUBLICATION-SCOPE.md) · [Deutsch](PUBLICATION-SCOPE.de.md)
 
-Additional documents will cover AI-assisted development, roadmap, and engineering decision records. Every portfolio document will be provided in English and German.
+The initial portfolio documentation set is complete. It covers product, technology, architecture, domain and data, business workflows, licensing, delivery, testing, security, privacy, AI-assisted development, and roadmap. Every portfolio document is provided in English and German.
 
 ## Portfolio Boundary
 
@@ -152,7 +155,4 @@ This case study intentionally demonstrates architecture, reasoning, documentatio
 Copyright © 2026 Mohamed Abergna. All rights reserved.
 
 No open-source license is granted by this repository.
-
-
-
 
