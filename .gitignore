@@ -1,0 +1,45 @@
+# Sensitive business data and local application artifacts
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.csv
+*.tsv
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.zip
+*.log
+
+# Secrets, certificates, and local environment configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.*
+secrets.*
+
+# Private working directories
+data/
+exports/
+backups/
+logs/
+screenshots/
+tmp/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local editor backups
+*~
+*.bak
+*.swp
+*.tmp
