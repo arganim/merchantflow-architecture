@@ -129,15 +129,19 @@ The goal was not merely to produce features, but to establish a maintainable eng
 - Customer and address versioning: [English](docs/07-customer-address-versioning.md) · [Deutsch](docs/07-customer-address-versioning.de.md)
 - License architecture: [English](docs/08-license-architecture.md) · [Deutsch](docs/08-license-architecture.de.md)
 - CI/CD pipeline: [English](docs/09-ci-cd-pipeline.md) · [Deutsch](docs/09-ci-cd-pipeline.de.md)
+- Testing strategy: [English](docs/10-testing-strategy.md) · [Deutsch](docs/10-testing-strategy.de.md)
+- Security and privacy: [English](docs/11-security-and-privacy.md) · [Deutsch](docs/11-security-and-privacy.de.md)
 - System context diagram: [English](diagrams/system-context.md) · [Deutsch](diagrams/system-context.de.md)
 - Conceptual domain diagram: [English](diagrams/domain-model.md) · [Deutsch](diagrams/domain-model.de.md)
 - Order flow diagram: [English](diagrams/order-flow.md) · [Deutsch](diagrams/order-flow.de.md)
 - Customer resolution diagram: [English](diagrams/customer-flow.md) · [Deutsch](diagrams/customer-flow.de.md)
 - License evaluation diagram: [English](diagrams/license-evaluation.md) · [Deutsch](diagrams/license-evaluation.de.md)
 - CI pipeline diagram: [English](diagrams/ci-pipeline.md) · [Deutsch](diagrams/ci-pipeline.de.md)
+- Testing strategy diagram: [English](diagrams/testing-strategy.md) · [Deutsch](diagrams/testing-strategy.de.md)
+- Security boundaries diagram: [English](diagrams/security-boundaries.md) · [Deutsch](diagrams/security-boundaries.de.md)
 - Publication scope and safety rules: [English](PUBLICATION-SCOPE.md) · [Deutsch](PUBLICATION-SCOPE.de.md)
 
-Additional documents will cover testing, security and privacy, AI-assisted development, roadmap, and engineering decision records. Every portfolio document will be provided in English and German.
+Additional documents will cover AI-assisted development, roadmap, and engineering decision records. Every portfolio document will be provided in English and German.
 
 ## Portfolio Boundary
 
@@ -148,6 +152,7 @@ This case study intentionally demonstrates architecture, reasoning, documentatio
 Copyright © 2026 Mohamed Abergna. All rights reserved.
 
 No open-source license is granted by this repository.
+
 
 
 
